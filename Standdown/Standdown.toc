@@ -1,7 +1,7 @@
 ## Interface: 16001
 ## Title: Standdown - PvP flag countdown
 ## Notes: A small movable box that counts down your PvP flag. Shows only while a timer is running.
-## Author: Thildir
+## Author: thildir
 ## Version: 0.1.0
 ## SavedVariables: StanddownDB
 ## IconTexture: Interface\Icons\Ability_DualWield
